@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=default&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=radical)
 
 
 
