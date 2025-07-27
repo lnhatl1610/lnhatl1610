@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
----
-<hr style="border: 0; height: 0.5px; background: #ccc;">
+
 Languages  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -15,6 +14,8 @@ Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=tokyonight)
 
