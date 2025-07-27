@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
-### 📊 My Github Stats  
+### My Github Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=tokyonight)
 
