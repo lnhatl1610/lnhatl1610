@@ -1,4 +1,4 @@
-## Hi there
+## Hi there  
 
 ## Languages  
 
@@ -9,7 +9,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
----
 ## My Github Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=tokyonight)
