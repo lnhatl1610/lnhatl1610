@@ -10,6 +10,11 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=tokyonight)
 
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+
 
 
 
