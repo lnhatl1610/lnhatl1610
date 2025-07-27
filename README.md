@@ -16,6 +16,8 @@ I'm Nhat, Fullstack developer from Da Nang, Viet Nam
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=tokyonight)
 
+## Explore
+![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fa-technical-marvel-the-golden-gate-bridge-anchors-meticulouslymaintained-national-parklands-from-which-visitors-can-catch-a-view-of-the-steel-harp--334673816066048782%2F&psig=AOvVaw0VqyVg5ToLHlXftSakMZy4&ust=1753676830432000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPicprWZ3I4DFQAAAAAdAAAAABAV)
 
 
 
