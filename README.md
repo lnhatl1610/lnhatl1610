@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ---
-<hr style="border: 0; height: 1px; background: #ccc;">
+<hr style="border: 0; height: .1px; background: #ccc;">
 Languages  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
