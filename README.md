@@ -8,7 +8,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact)
 
 
 
