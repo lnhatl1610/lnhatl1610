@@ -8,6 +8,9 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lnhatl1610&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+
 
 <!---
 lnhatl1610/lnhatl1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
