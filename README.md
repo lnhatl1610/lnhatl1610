@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
-### ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-100000?style=for-the-badge&logo=github&logoColor=white) My Github Stats
+### My Github Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnhatl1610&layout=compact&theme=tokyonight)
 
