@@ -1,5 +1,5 @@
 ## Hi there  
-I'm Nhat, Fullstack developer from Da Nang, Viet Nam 
+I'm Nhat, Embedded Software Engineer from Da Nang, Viet Nam 
 
 ## Languages  
 
